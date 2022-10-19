@@ -1,6 +1,8 @@
 # CPSC547
-### Software Measurement
+## Software Measurement
 
-Software Measurement Report - Group Project\
+Software Measurement Report - Group Project
 
-Process: Software Maintenance - Zulema Perez
+Section of paper researched and written by ***Zulema Perez*** :
+
+***Process: Software Maintenance***
